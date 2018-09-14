@@ -1,0 +1,28 @@
+{
+  "name": "pixi-examples",
+  "version": "1.0.0",
+  "description": "my journey through the pixi realm",
+  "main": "index.html",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-borrione/pixi-examples.git"
+  },
+  "keywords": [
+    "pixi",
+    "examples"
+  ],
+  "author": "Luca Borrione",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/luca-borrione/pixi-examples/issues"
+  },
+  "homepage": "https://github.com/luca-borrione/pixi-examples#readme",
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jshint": "^2.9.6",
+    "live-server": "^1.2.0"
+  }
+}
